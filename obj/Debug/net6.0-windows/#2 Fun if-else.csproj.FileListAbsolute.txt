@@ -1,0 +1,16 @@
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\bin\Debug\net6.0-windows\#2 Fun if-else.exe
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\bin\Debug\net6.0-windows\#2 Fun if-else.deps.json
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\bin\Debug\net6.0-windows\#2 Fun if-else.runtimeconfig.json
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\bin\Debug\net6.0-windows\#2 Fun if-else.dll
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\bin\Debug\net6.0-windows\#2 Fun if-else.pdb
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\obj\Debug\net6.0-windows\_2_Fun_if_else.Form1.resources
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\obj\Debug\net6.0-windows\#2 Fun if-else.csproj.GenerateResource.cache
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\obj\Debug\net6.0-windows\#2 Fun if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\obj\Debug\net6.0-windows\#2 Fun if-else.AssemblyInfoInputs.cache
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\obj\Debug\net6.0-windows\#2 Fun if-else.AssemblyInfo.cs
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\obj\Debug\net6.0-windows\#2 Fun if-else.csproj.CoreCompileInputs.cache
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\obj\Debug\net6.0-windows\#2 Fun if-else.dll
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\obj\Debug\net6.0-windows\refint\#2 Fun if-else.dll
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\obj\Debug\net6.0-windows\#2 Fun if-else.pdb
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\obj\Debug\net6.0-windows\#2 Fun if-else.genruntimeconfig.cache
+C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\C#_Use a cabeca\PROJETOS\#2_Caixa_Selecao_Alarmes\#2 Fun if-else\obj\Debug\net6.0-windows\ref\#2 Fun if-else.dll
